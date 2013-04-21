@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'fancycalendar'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+            
+			<label index="tx_fancycalendar_domain_model_event">Event</label>
+			<label index="tx_fancycalendar_domain_model_event.name">Name</label>
+			<label index="tx_fancycalendar_domain_model_event.startdatetime">Startdate/Starttime</label>
+			<label index="tx_fancycalendar_domain_model_event.wholedayevent">Wholedayevent</label>
+			<label index="tx_fancycalendar_domain_model_event.enddatetime">Enddate/Endtime</label>
+			<label index="tx_fancycalendar_domain_model_event.description">Description</label>
+			<label index="tx_fancycalendar_domain_model_event.categories">Categories</label>
+			<label index="tx_fancycalendar_domain_model_event.locations">Locations</label>
+
+			<label index="tx_fancycalendar_domain_model_categorie">Categorie</label>
+			<label index="tx_fancycalendar_domain_model_categorie.name">Name</label>
+            <label index="tx_fancycalendar_domain_model_categorie.color">Color</label>
+            <label index="tx_fancycalendar_domain_model_categorie.colorChoose">-- Please choose --</label>
+            <label index="tx_fancycalendar_domain_model_categorie.colorRed">Red</label>
+            <label index="tx_fancycalendar_domain_model_categorie.colorBlue">Blue</label>
+            <label index="tx_fancycalendar_domain_model_categorie.colorGreen">Green</label>
+
+			<label index="tx_fancycalendar_domain_model_location">Location</label>
+			<label index="tx_fancycalendar_domain_model_location.name">Name</label>
+			<label index="tx_fancycalendar_domain_model_location.googlemaps">Googlemaps</label>
+
+		</languageKey>
+	</data>
+</T3locallang>
